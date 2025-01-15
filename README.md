@@ -9,7 +9,7 @@ On a mission to turn data into insights and algorithms into solutions.
 <div align="center">
 
 # Hello World! I'm Vaanishka Trivedi 👋
-### 📫 Aspiring Data Scientist | AI Enthusiast | Undergraduate Student
+###  Aspiring Data Scientist | AI Enthusiast | Undergraduate Student
 
 [![LinkedIn Badge](https://img.shields.io/badge/-VaanishkaTrivedi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaanishka-trivedi-5b1ab7323/)
 [![GitHub followers](https://img.shields.io/github/followers/vaanishka?label=Follow&style=social)](https://github.com/vaanishka)
