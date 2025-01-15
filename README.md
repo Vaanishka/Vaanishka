@@ -38,10 +38,10 @@ graph LR
     A[Python] --> B[Data Analysis]
     B --> C[Machine Learning]
     C --> D[AI Applications]
-    style A fill:#2f80ed
-    style B fill:#4CAF50
-    style C fill:#ff9800
-    style D fill:#f44336
+    style A fill:#2f80ed, color:#ffffff
+    style B fill:#4CAF50, color:#ffffff
+    style C fill:#ff9800, color:#ffffff
+    style D fill:#f44336, color:#ffffff
 ```
 
 
