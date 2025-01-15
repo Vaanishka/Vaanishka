@@ -71,5 +71,3 @@ graph LR
 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vaanishka&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaanishka&layout=compact&theme=tokyonight)](https://github.com/vaanishka/github-readme-stats)
