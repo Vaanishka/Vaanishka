@@ -44,30 +44,23 @@ graph LR
     style D fill:#f44336
 ```
 
-## 💻 Tech Stack
-
-<div>
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-## 🛠️ Tools I Use
-
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-
-</div>
 
 
-🎯 Current Focus
+## 🧠 Tech Arsenal
+- **Languages**: Python, SQL
+
+- **Frameworks**: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
+
+- **Tools**: VS Code, Jupyter Notebook  
+  (I still prefer Jupyter Notebook more)
+
+
+
+## 🎯 Current Focus
 - **Learning**: Data Science & AI
 - **Working on**: Building my Data Analysis portfolio
 - **Exploring**: Machine Learning algorithms
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vaanishka&show_icons=true&theme=tokyonight)
