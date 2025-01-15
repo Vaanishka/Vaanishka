@@ -4,8 +4,6 @@
 Currently diving into the world of Deep Learning and AI while pursuing my undergraduate studies. 
 On a mission to turn data into insights and algorithms into solutions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaanishka-trivedi-5b1ab7323/)
-
 <div align="center">
 
 ###  Aspiring Data Scientist | AI Enthusiast | Undergraduate Student
